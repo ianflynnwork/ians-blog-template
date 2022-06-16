@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ians-blog-template/static/css/main.6d9538b9.css",
-    "main.js": "/ians-blog-template/static/js/main.4633e90d.js",
+    "main.js": "/ians-blog-template/static/js/main.aacca200.js",
     "index.html": "/ians-blog-template/index.html",
     "main.6d9538b9.css.map": "/ians-blog-template/static/css/main.6d9538b9.css.map",
-    "main.4633e90d.js.map": "/ians-blog-template/static/js/main.4633e90d.js.map"
+    "main.aacca200.js.map": "/ians-blog-template/static/js/main.aacca200.js.map"
   },
   "entrypoints": [
     "static/css/main.6d9538b9.css",
-    "static/js/main.4633e90d.js"
+    "static/js/main.aacca200.js"
   ]
 }
